@@ -1,0 +1,16 @@
+
+DE_SQL #1
+SELECT
+    id,AVG(duration)
+FROM
+    sessions
+    where 
+    id = '1'
+jawabannya dengan id 1 rata-rata 10
+
+DE_SQL #2 
+select name from employees 
+where managerid not Null
+
+jawabannya mike karena dia mempunya id manager
+
